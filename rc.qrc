@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="iSuppr">ressources/supr 32x32.png</file>
+        <file alias="iEdit">ressources/edit 32x32.png</file>
+        <file>ressources/icone.png</file>
+        <file>ressources/export32x32.png</file>
+        <file>ressources/import32x32.png</file>
+        <file>ressources/console 64x64.png</file>
+    </qresource>
+</RCC>
